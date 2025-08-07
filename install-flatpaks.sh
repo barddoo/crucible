@@ -1,7 +1,9 @@
 FLATPAKS=(
   "spotify"
   "discord"
-  "chrome"
+  "me.proton.Pass"
+  "io.missioncenter.MissionCenter"
+  
 )
 
 for pak in "${FLATPAKS[@]}"; do
